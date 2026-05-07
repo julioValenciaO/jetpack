@@ -8,6 +8,10 @@
   <img src="https://img.shields.io/badge/AI-Powered-purple?style=for-the-badge"/>
 </p>
 
+## ⚡ Features
+
 <p align="center">
-  <img src="images/demo.gif" width="300"/>
+  <img src="https://img.icons8.com/fluency/96/android-os.png"/>
+  <img src="https://img.icons8.com/fluency/96/artificial-intelligence.png"/>
+  <img src="https://img.icons8.com/fluency/96/api.png"/>
 </p>
