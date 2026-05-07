@@ -13,3 +13,11 @@
   <img src="https://img.icons8.com/fluency/96/artificial-intelligence.png"/>
   <img src="https://img.icons8.com/fluency/96/api.png"/>
 </p>
+
+<p align="center">
+  <img src="https://developer.android.com/static/images/jetpack/compose/compose-canvas.svg" width="400"/>
+</p>
+<p align="center">
+  <h2>Modern Android App built with Jetpack Compose</h2>
+  <p>AI-powered recipe generator with clean architecture</p>
+</p>
