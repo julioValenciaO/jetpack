@@ -19,5 +19,4 @@
 </p>
 <p align="center">
   <h2>Modern Android App built with Jetpack Compose</h2>
-  <p>AI-powered recipe generator with clean architecture</p>
 </p>
